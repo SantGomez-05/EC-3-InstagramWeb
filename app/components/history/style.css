@@ -1,0 +1,22 @@
+#templateup{
+    background-color: rgb(89, 69,69);
+    box-shadow: 2px 2px 40px rgb(89, 69, 69);
+    width: 309px;
+    height: 465px;
+    position: relative;
+}
+
+#photo{
+    width: 309px;
+    height: 465px;
+    position: relative;
+}
+
+#username{
+    width: 309px;
+    height: 465px;
+    position: relative;
+}
+
+
+
